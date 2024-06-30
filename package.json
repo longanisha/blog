@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development vuepress dev docs",
+    "dev": "cross-env NODE_ENV=development vuepress dev docs NODE_OPTIONS='--trace-deprecation'",
     "build": "cross-env NODE_ENV=production vuepress build docs",
     "deploy": "bash deploy.sh",
     "cname": "bash cname.sh",
