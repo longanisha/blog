@@ -22,7 +22,7 @@ i am proficient in both front and back end coding. I help clients designing user
 How to contact me?
 You might leave me a message below or add me thought the accounts below, thank you.
 
-Wechat: karmen-aw <br/>
+Wechat: karmen_chi <br/>
 Email: karmenlover214@gmail.com
 
 
